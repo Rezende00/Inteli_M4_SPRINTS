@@ -1,3 +1,8 @@
+# AVISO:
+
+- Para a completude desses exercícios, foi utilizado o conteúdo disponibilizado no replit do professor Victor Hayashi.
+- Agradeço a compreensão, dado que trouxe maior tranquilidade e entendimento para a progressão e conclusão dos exercícios.
+
 # EXERCÍCIOS
 Faça a lista de exercícios abaixo em C/C++
 Se você fizer cada ítem, ao final será capaz de construir o projeto como um todo.
