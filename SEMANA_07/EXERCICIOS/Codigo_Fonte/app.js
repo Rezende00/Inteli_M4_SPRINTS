@@ -1,5 +1,5 @@
 // para começar e rodar o código, basta rodar o comando "npm run dev" no terminal
-// pois irá chamar o script "dev" que está no package.json, que é do nodemon
+// pois irá chamar o script "dev" que está no package.json
 // que irá rodar o arquivo app.js, que é o arquivo principal do servidor
 // o nodemon irá reiniciar o servidor sempre que houver alguma alteração no código (usei assim pois ficou mais fácil de desenvolver)
 
